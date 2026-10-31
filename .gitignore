@@ -1,0 +1,15 @@
+# Binaries
+/fx-repro
+/fx-repro.exe
+*.exe
+*.test
+*.out
+/bin/
+/dist/
+
+# Go workspace
+go.work
+go.work.sum
+
+# Editor and OS
+.DS_Store
